@@ -15,11 +15,11 @@
 </div> 
  </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vonhatphuongahihi&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhatphuongahihi&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vonhatphuongahihi&theme=default&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhatphuongahihi&show_icons=true&hide_border=true&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vonhatphuongahihi&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vonhatphuongahihi&hide_border=true" />
 </p>
 
 
