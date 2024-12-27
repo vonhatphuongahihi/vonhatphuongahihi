@@ -9,9 +9,7 @@
   <a href="https://www.facebook.com/phuong.vonhat.tuhy/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/tuhy.sapoche.99/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
 </div> 
  </div>
 <p align="center">
